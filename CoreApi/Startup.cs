@@ -12,7 +12,6 @@ using System.Threading.Tasks;
 
 namespace CoreApi
 {
-    //This changes for Mymaster branch
     public class Startup
     {
         public Startup(IConfiguration configuration)
