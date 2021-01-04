@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 
 namespace CoreApi
 {
+    //Again changes in startup.cs
     public class Startup
     {
         public Startup(IConfiguration configuration)
